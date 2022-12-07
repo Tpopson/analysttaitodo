@@ -1,0 +1,17 @@
+
+
+.delbtn{
+    border: none;
+    background: none;
+}
+.delbtn .fa-xmark,
+.fa-xmark{
+    color: brown;
+}
+.delbtn .fa-check,
+.fa-check{
+    color: green;
+}
+.delbtn .fa-trash{
+    color: red;
+}
